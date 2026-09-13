@@ -21,10 +21,9 @@ I'm a Computer Science student at **San José State University**, graduating in 
 - 💻 Building full-stack applications, APIs, and data-driven systems
 - 🏆 **10x hackathon winner** with experience competing alongside talented students, founders, and engineers
 - 🚀 Building **Parallel**, an award-winning AI collaboration platform
-- 💰 Earned **$20,000+ through multiple hackathon and startup competition wins** with Parallel
+- 💰 Recognized with **$10,000+ in awards across multiple hackathons and startup competitions.** 
 - 🏢 Former **Information Technology Intern at L&L Products**
 - 👨‍🏫 Undergraduate Teaching Assistant who has mentored **800+ students**
-- 🎓 Maintaining a **3.85 GPA** while studying Computer Science
 - 🔎 Interested in **2027 software engineering, AI, and data opportunities**
 
 ---
