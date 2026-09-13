@@ -19,7 +19,7 @@ I build practical software at the intersection of artificial intelligence, data,
 I'm a Computer Science student at **San José State University**, graduating in **May 2027**. I enjoy transforming real problems into thoughtful, scalable products using software engineering, artificial intelligence, and data.
 
 - 💻 Building full-stack applications, APIs, and data-driven systems
-- 🏆 **8x hackathon winner** with experience competing alongside talented students, founders, and engineers
+- 🏆 **10x hackathon winner** with experience competing alongside talented students, founders, and engineers
 - 🚀 Building **Parallel**, an award-winning AI collaboration platform
 - 💰 Earned **$20,000+ through multiple hackathon and startup competition wins** with Parallel
 - 🏢 Former **Information Technology Intern at L&L Products**
