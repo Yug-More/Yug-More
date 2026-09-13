@@ -41,19 +41,20 @@ I'm a Computer Science student at **San José State University**, graduating in 
 
 ## Currently Building
 
-### Parallel
+### [Orq](https://github.com/SeanAminov/Orq)
 
-Parallel began with a problem I repeatedly experienced during hackathons: teammates were using AI simultaneously, but their prompts, outputs, and progress remained scattered across separate screens.
+Orq is an agentic AI workspace designed to help teams interact with AI agents, connected applications, and data services through a shared conversational interface.
 
-We are building a shared environment where teams can coordinate tasks, follow AI workflows, and build upon one another's work in real time.
+Users can trigger specialized workflows using simple mentions, while the system identifies their intent, routes requests to the appropriate service, and tracks activity within collaborative workspaces.
 
 **Current focus:**
 
-- Shared AI workspaces
-- Real-time team collaboration
-- Task and workflow coordination
-- Secure authentication and persistent data
-- Scalable API and database architecture
+- Intent-based routing across AI tools and services
+- Multi-agent workflows using CrewAI
+- Integrations with Gmail, Google Drive, Calendar, and GitHub
+- Data analysis and querying through Snowflake Cortex
+- Reusable multi-step workflow automation
+- Persistent workspace memory and cost tracking
 
 ---
 
