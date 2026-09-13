@@ -119,20 +119,6 @@ Mentored more than **800 students** across Python, Java, data structures, object
 
 ---
 
-## GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yug-More&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Yug's GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-More&layout=compact&hide_border=true&theme=transparent" alt="Yug's most used languages" />
-
-</div>
-
-> GitHub language statistics reflect public repository activity and do not represent my complete technical experience.
-
----
-
 ## Let's Connect
 
 I'm always interested in discussing software engineering, artificial intelligence, data, hackathons, and meaningful technology.
