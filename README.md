@@ -34,6 +34,7 @@ I'm a Computer Science student at **San José State University**, graduating in 
 | Project | Technology | What It Does |
 |---|---|---|
 | [**Parallel**](https://github.com/Yug-More/Parallel-AI) | React, JavaScript, FastAPI, PostgreSQL, Python, Docker | Real-time AI collaboration platform for managing shared workspaces, tasks, prompts, outputs, and team progress |
+| [**Orq**](https://github.com/SeanAminov/Orq) | React, FastAPI, SQLAlchemy, CrewAI, Snowflake Cortex, Composio | Agentic AI workspace that routes team requests across multi-agent workflows, connected applications, data services, and reusable automations |
 | [**FlowChain**](https://github.com/05ryt31/CS157A-S1-Team2-Project) | Java, JavaScript, JSP, JSTL, MySQL, Tomcat, Maven | Full-stack food redistribution platform connecting donor organizations with recipient centers |
 | [**MarketPulse**](https://github.com/Yug-More/Stock-Market-CS171) | Python, Pandas, Scikit-learn, TensorFlow, Matplotlib | Financial time-series project comparing regression, ensemble, and deep-learning models using historical market data |
 
