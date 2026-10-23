@@ -1,5 +1,5 @@
 <div align="center">
-<img src="YOUR_ORIGINAL_IMAGE_URL" alt="Yug Amol More" width="180" style="border-radius: 50%;" />
+<img src="https://github.com/Yug-More.png" alt="Yug Amol More" width="180" />
   
 # Hi, I'm Yug Amol More 👋
 
