@@ -3,13 +3,13 @@
 
 # Hi, I'm Yug Amol More 👋
 
-### Computer Science @ SJSU | Full-Stack, AI & Data Builder | 10x Hackathon Winner
+### Computer Science @ SJSU | Applied AI & Intelligent Software Systems | 11x Hackathon Winner
 
-I build practical software at the intersection of artificial intelligence, data, and real-world operations.
+Building practical, reliable AI-powered software that connects intelligent systems with real-world problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugmore13)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yug-More)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugmore20@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugmore20@gmail.com)
 
 </div>
 
@@ -17,122 +17,177 @@ I build practical software at the intersection of artificial intelligence, data,
 
 ## About Me
 
-I'm a Computer Science student at **San José State University**, graduating in **May 2027**. I enjoy transforming real problems into thoughtful, scalable products using software engineering, artificial intelligence, and data.
+I'm a Computer Science undergraduate at **San José State University**, graduating in **May 2027**.
 
-- 💻 Building full-stack applications, APIs, and data-driven systems
-- 🏆 **10x hackathon winner** with experience competing alongside talented students, founders, and engineers
-- 🚀 Building **Parallel**, an award-winning AI collaboration platform
-- 💰 Recognized with **$10,000+ in awards across multiple hackathons and startup competitions.**
+My interests lie in **applied artificial intelligence, intelligent software systems, and trustworthy, human-centered AI**. I'm particularly interested in how AI systems maintain useful context, make reliable decisions, and interact with people in real-world environments.
+
+I enjoy taking ideas from initial prototypes to working products, combining AI, software engineering, data infrastructure, and thoughtful system design.
+
+- 🏆 **11x hackathon winner**, with awards across AI, software engineering, and startup competitions
+- 🥇 **1st Place — The Executable World Hackathon**, winning **$25,000** for SafetyLens
+- 🚀 Co-building **Parallel**, an AI collaboration platform recognized with **$15,000 in hackathon awards**
+- 🔬 Exploring AI agent memory security through **MemoryFence** and forecasting reliability through **MarketPulse**
+- 👨‍🏫 **Head Computer Science Study Lab Tutor and Undergraduate Teaching Assistant** at SJSU
 - 🏢 Former **Information Technology Intern at L&L Products**
-- 👨‍🏫 Undergraduate Teaching Assistant who has mentored **800+ students**
-- 🔎 Interested in **2027 software engineering, AI, and data opportunities**
+- 🎓 Preparing for graduate study in Computer Science, with an emphasis on applied AI and intelligent systems
+- 💼 Interested in **2027 software engineering and AI opportunities**
 
 ---
 
 ## Featured Projects
 
-| Project | Technology | What It Does |
+### 🛡️ [SafetyLens — AI-Powered Workplace Safety](https://github.com/Yug-More/SafetyLens)
+
+**1st Place · The Executable World Hackathon · $25,000 Award**
+
+An AI-powered workplace safety platform designed to identify potential safety incidents and support evidence-based, human-approved responses.
+
+- Combines computer vision with AI-assisted analysis to identify safety risks, including PPE compliance issues and potential person-down incidents
+- Retrieves relevant safety procedures and supporting context to help users understand detected incidents
+- Incorporates human approval before consequential response actions
+- Built with a full-stack architecture using React/Next.js, Python, and FastAPI
+
+**Focus:** Human-centered AI, computer vision, evidence-backed decisions, and reliable AI workflows
+
+### 🧠 [MemoryFence — AI Agent Memory Security](https://github.com/Yug-More/MemoryFence)
+
+An independent research-oriented framework investigating security risks in AI agents that rely on persistent memory.
+
+- Studies how malicious or untrusted information could influence an agent through stored memories
+- Implements simulated attack scenarios and evaluates five memory-deletion policies
+- Explores provenance tracking, authorization safeguards, and memory-management controls
+- Emphasizes reproducible experiments and clearly defined security assumptions
+
+**Focus:** AI agent security, persistent memory, provenance, and trustworthy AI
+
+### 📈 [MarketPulse — Machine Learning Forecasting Research](https://github.com/Yug-More/Stock-Market-CS171)
+
+An empirical machine learning study investigating whether complex forecasting models consistently outperform simpler statistical baselines.
+
+Originally developed for my Machine Learning coursework at SJSU and subsequently expanded into a more comprehensive independent evaluation.
+
+- Compares linear regression, random forests, LSTMs, and simple forecasting baselines
+- Studies NASDAQ-100 and S&P 500 data across multiple forecasting horizons
+- Includes **355,320 out-of-sample predictions** from walk-forward evaluation
+- Investigates robustness across random seeds, statistical significance, market regimes, and forecast uncertainty
+- Examines calibration and reliability rather than relying solely on headline prediction accuracy
+
+**Focus:** Machine learning evaluation, time-series forecasting, statistical reliability, and uncertainty quantification
+
+### 🤝 [Parallel — Collaborative AI Workspace](https://github.com/Yug-More/Parallel-AI)
+
+**Award-winning AI collaboration platform · $15,000 in hackathon awards**
+
+A shared AI workspace designed to help teams collaborate with context-aware agents, persistent memory, and organized project information.
+
+- Develops personalized AI agents that maintain relevant context across interactions
+- Supports shared workspaces for coordinating tasks, conversations, and outputs
+- Explores persistent semantic memory for more useful and continuous AI interactions
+- Combines full-stack product development with practical agent-oriented system design
+
+**Focus:** AI agents, contextual memory, collaboration, and intelligent software systems
+
+### 📱 [FindIt — AI-Powered Lost & Found](https://github.com/Yug-More/find-it)
+
+A mobile lost-and-found application designed to help people report, discover, and reclaim misplaced belongings.
+
+- Built with **React Native, Expo, TypeScript, FastAPI, and Supabase**
+- Supports lost and found reports, image uploads, item discovery, and match recommendations
+- Implements claim submission and review workflows
+- Uses AI-assisted image understanding and similarity-based matching within the project's architecture
+- Developed collaboratively as part of SJSU's Software Engineering course
+
+**Focus:** Mobile engineering, applied AI, backend APIs, and user-centered product design
+
+---
+
+## Other Projects
+
+| Project | Description | Technologies |
 |---|---|---|
-| [**Parallel**](https://github.com/Yug-More/Parallel-AI) | React, JavaScript, FastAPI, PostgreSQL, Python, Docker | Real-time AI collaboration platform for managing shared workspaces, tasks, prompts, outputs, and team progress |
-| [**Orq**](https://github.com/SeanAminov/Orq) | React, FastAPI, SQLAlchemy, CrewAI, Snowflake Cortex, Composio | Agentic AI workspace that routes team requests across multi-agent workflows, connected applications, data services, and reusable automations |
-| [**FlowChain**](https://github.com/05ryt31/CS157A-S1-Team2-Project) | Java, JavaScript, JSP, JSTL, MySQL, Tomcat, Maven | Full-stack food redistribution platform connecting donor organizations with recipient centers |
-| [**MarketPulse**](https://github.com/Yug-More/Stock-Market-CS171) | Python, Pandas, Scikit-learn, TensorFlow, Matplotlib | Financial time-series project comparing regression, ensemble, and deep-learning models using historical market data |
+| [Orq](https://github.com/SeanAminov/Orq) | Agentic AI workspace connecting specialized agents, external applications, and reusable workflows | React, FastAPI, CrewAI, Snowflake Cortex, Composio |
+| [FlowChain](https://github.com/05ryt31/CS157A-S1-Team2-Project) | Food redistribution platform connecting donor organizations with recipient centers | Java, JSP, JSTL, MySQL, Tomcat |
+| [PixelSense](https://github.com/Yug-More/PixelSense) | iPhone photo editor exploring natural-language instructions, rule-based interpretation, and image adjustments | Swift, SwiftUI, PhotoKit |
 
 ---
 
-## Currently Building
+## Experience & Leadership
 
-### [Orq](https://github.com/SeanAminov/Orq)
+### Head Computer Science Study Lab Tutor · San José State University
 
-Orq is an agentic AI workspace designed to help teams interact with AI agents, connected applications, and data services through a shared conversational interface.
+**2026 – Present**
 
-Users can trigger specialized workflows using simple mentions, while the system identifies their intent, routes requests to the appropriate service, and tracks activity within collaborative workspaces.
-
-**Current focus:**
-
-- Intent-based routing across AI tools and services
-- Multi-agent workflows using CrewAI
-- Integrations with Gmail, Google Drive, Calendar, and GitHub
-- Data analysis and querying through Snowflake Cortex
-- Reusable multi-step workflow automation
-- Persistent workspace memory and cost tracking
-
----
-
-## Experience Beyond the Classroom
-
-### Information Technology Intern · L&L Products
-
-Contributed to enterprise software, manufacturing technology, supply chain systems, data integration, operational analysis, and process improvement. Gained hands-on experience with JavaScript, SQL, relational databases, REST APIs, data pipelines, enterprise platforms, and system testing.
+- Help lead tutoring operations and support fellow tutors serving SJSU Computer Science students
+- Help students understand programming, algorithms, debugging, and software development concepts
+- Support coursework across Python, Java, data structures, databases, and machine learning
 
 ### Undergraduate Teaching Assistant · San José State University
 
-Mentored more than **800 students** across Python, Java, data structures, object-oriented programming, databases, and machine learning through debugging, code reviews, and algorithm-development guidance.
+**2024 – Present**
+
+- Supported **800+ students** through teaching assistance, assignment feedback, debugging, and technical guidance
+- Assisted with introductory Python, Java programming, and Machine Learning courses
+- Help students build confidence in problem-solving and programming fundamentals
+
+### Information Technology Intern · L&L Products
+
+**May – August 2026**
+
+- Contributed to the migration of **200 production label templates** from Loftware to CODESOFT using JavaScript and SQL
+- Developed Oracle PRS collection plans to support structured manufacturing quality workflows
+- Worked on CRM data integration using Airbyte and MySQL, including HubSpot-to-Oracle migration workflows
+- Supported enterprise HR data migration and REST API validation using Postman
+
+### Additional Campus Leadership
+
+- **AI Lead**, SJSU AI & ML Club
+- **Technology Lead**, SJSU ACM
+- **Hackathon Organizer**, Cyber Hacks SJSU
+- **Former Resident Advisor**, SJSU University Housing
 
 ---
 
 ## Technical Skills
 
-### Languages
+**Languages:** Python, Java, JavaScript, TypeScript, C, C++, SQL, Swift, HTML, CSS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**AI & Machine Learning:** Scikit-learn, TensorFlow, Pandas, NumPy, computer vision, LLM applications, AI agents, embeddings, model evaluation
 
-### Frameworks and Libraries
+**Full-Stack Development:** React, Next.js, React Native, Expo, FastAPI, Flask, Node.js, REST APIs
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**Databases & Infrastructure:** PostgreSQL, MySQL, SQLite, Supabase, Oracle, Docker, AWS, Google Cloud
 
-### Databases and Cloud
+**Developer Tools:** Git, GitHub, Postman, Maven, Jira, Jupyter
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+**Analytics:** Power BI, Tableau, Looker Studio
 
-### Developer Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+## What I'm Interested In
 
-### Analytics and Visualization
+My work is increasingly centered on a few connected questions:
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+- **AI Agents & Memory:** How can intelligent systems maintain relevant context without compromising security or reliability?
+- **Trustworthy & Human-Centered AI:** How can AI support real decisions while keeping people informed and in control?
+- **Evaluation & Generalization:** How do we know when a sophisticated model genuinely improves on a simpler alternative?
+- **Intelligent Software Engineering:** How can we build AI-powered products that remain practical, maintainable, and useful outside a demo?
+
+These interests connect my work across **MemoryFence, SafetyLens, Parallel, and MarketPulse**.
 
 ---
 
 ## Let's Connect
 
-I'm always interested in discussing software engineering, artificial intelligence, data, hackathons, and meaningful technology.
+I'm always interested in discussing applied AI, software engineering, research-oriented projects, hackathons, and opportunities to build useful technology.
 
 - **LinkedIn:** [linkedin.com/in/yugmore13](https://linkedin.com/in/yugmore13)
-- **Email:** [yugmore20@gmail.com](mailto:yugmore20@gmail.com)
 - **GitHub:** [github.com/Yug-More](https://github.com/Yug-More)
+- **Email:** [yugmore20@gmail.com](mailto:yugmore20@gmail.com)
 
 ---
 
 <div align="center">
 
-### Building, learning, and turning ambitious ideas into useful products.
+### Building intelligent software that is useful, reliable, and grounded in real-world needs.
 
 </div>
