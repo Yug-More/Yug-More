@@ -28,7 +28,6 @@ I enjoy taking ideas from initial prototypes to working products, combining AI, 
 - 🔬 Exploring AI agent memory security through **MemoryFence** and forecasting reliability through **MarketPulse**
 - 👨‍🏫 **Head Computer Science Study Lab Tutor and Undergraduate Teaching Assistant** at SJSU
 - 🏢 Former **Information Technology Intern at L&L Products**
-- 🎓 Preparing for graduate study in Computer Science, with an emphasis on applied AI and intelligent systems
 - 💼 Interested in **2027 software engineering and AI opportunities**
 
 ---
