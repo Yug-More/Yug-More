@@ -1,6 +1,6 @@
-
 <div align="center">
-
+<img src="YOUR_ORIGINAL_IMAGE_URL" alt="Yug Amol More" width="180" style="border-radius: 50%;" />
+  
 # Hi, I'm Yug Amol More 👋
 
 ### Computer Science @ SJSU | Applied AI & Intelligent Software Systems | 11x Hackathon Winner
